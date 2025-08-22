@@ -16,9 +16,9 @@ editor_options:
 Aguado & Dr. Jorge I. Vélez, PhD\
 **Posted on:** July 14, 2025
 
-![](Images/Statistician_03_Funny.png){width=50%}
+<img src="Images/Statistician_03_Funny.png" width="50%" />
 
-*Fig 1. Statistician "searching for outliers" in datasets. Source:(AI-generated)*
+Fig 1. Statistician "searching for outliers" in datasets. Source:(AI-generated)
 
 Imagine you have a massive dataset full of customer transactions, sensor
 readings, or medical measurements. And now imagine you want to
@@ -37,9 +37,9 @@ explain it here without technical jargon.
 
 ## What Exactly Does DBSCAN Do for Outlier Detection?
 
-![](Images/DBSCAN_01_clustering.png){width=50%}
+<img src="Images/DBSCAN_01_clustering.png" width="50%" />
 
-*Fig 2. Representation of DBSCAN's outlier detection objective. Source:(AI-generated)*
+Fig 2. Representation of DBSCAN's outlier detection objective. Source:(AI-generated)
 
 Think of DBSCAN as an automatic anomaly detector. You give it a bunch
 of data points, and it replies with something like:
@@ -56,9 +56,9 @@ itself**, simply by analyzing the density patterns in the data.
 
 ## What's The Secret?
 
-![](Images/DBSCAN_01_points.png){width=50%}
+<img src="Images/DBSCAN_01_points.png" width="50%" />
 
-*Fig 3. Representation of core points, border points, and noise points in DBSCAN. Source: (AI-generated)*
+Fig 3. Representation of core points, border points, and noise points in DBSCAN. Source: (AI-generated)
 
 Even though it may sound like sorcery, DBSCAN is based on
 well-thought-out mathematical ideas. But don't worry: with a bit of
