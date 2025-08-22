@@ -16,7 +16,7 @@ editor_options:
 Aguado & Dr. Jorge I. Vélez, PhD\
 **Posted on:** July 14, 2025
 
-![](/home/jdemoya/Downloads/Statistician_03_Funny.png){width=50%}
+![](Images/Statistician_03_Funny.png){width=50%}
 
 *Fig 1. Statistician "searching for outliers" in datasets. Source:(AI-generated)*
 
@@ -37,7 +37,7 @@ explain it here without technical jargon.
 
 ## What Exactly Does DBSCAN Do for Outlier Detection?
 
-![](/home/jdemoya/Downloads/DBSCAN_01_clustering.png){width=50%}
+![](Images/DBSCAN_01_clustering.png){width=50%}
 
 *Fig 2. Representation of DBSCAN's outlier detection objective. Source:(AI-generated)*
 
@@ -56,7 +56,7 @@ itself**, simply by analyzing the density patterns in the data.
 
 ## What's The Secret?
 
-![](/home/jdemoya/Downloads/DBSCAN_01_points.png){width=50%}
+![](Images/DBSCAN_01_points.png){width=50%}
 
 *Fig 3. Representation of core points, border points, and noise points in DBSCAN. Source: (AI-generated)*
 
